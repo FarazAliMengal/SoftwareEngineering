@@ -1,3 +1,4 @@
+// this is many project 
 import javax.swing.*;
 class SoftwareProject
 {
@@ -54,7 +55,7 @@ class SoftwareProject
 
 					JOptionPane.showMessageDialog(null,"\n========================\nThank You For Using Addition\n========================");
 				
-					String u=JOptionPane.showInputDialog(null,"Do You Want To Stay in Project or want to Exit exit[Y/N]");
+					String u=JOptionPane.showInputDialog(null,"Do You Want To Stay in calculator or want to Exit exit[Y/N]");
 				    ch2=u.charAt(0);	
 				}
 					continue outer1;
